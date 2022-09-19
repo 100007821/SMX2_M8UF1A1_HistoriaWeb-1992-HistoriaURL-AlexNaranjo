@@ -10,3 +10,5 @@ Es un identificador de recursos uniforme cuyos recursos referidos pueden cambiar
 Los URL fueron una innovación en la historia de Internet. Fueron usados por primera vez por Tim Berners-Lee en 1991, para permitir a los autores de documentos establecer hiperenlaces en la World Wide Web (WWW).
 
 **¿Quien fue Tim Berners-Lee?**
+
+Estableció la primera comunicación entre un cliente y un servidor usando el protocolo HTTP en diciembre de 1990.
