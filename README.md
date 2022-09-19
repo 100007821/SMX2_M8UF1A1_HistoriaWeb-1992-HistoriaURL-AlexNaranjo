@@ -12,3 +12,4 @@ Los URL fueron una innovación en la historia de Internet. Fueron usados por pri
 **¿Quien fue Tim Berners-Lee?**
 
 Estableció la primera comunicación entre un cliente y un servidor usando el protocolo HTTP en diciembre de 1990.
+![Creador URL](https://github.com/100007821/SMX2_M8UF1A1_HistoriaWeb-1992-HistoriaURL-AlexNaranjo/blob/main/creador%20URL%201.jpg)
