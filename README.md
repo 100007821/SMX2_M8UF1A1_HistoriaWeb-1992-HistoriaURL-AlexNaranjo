@@ -3,7 +3,7 @@ _**LA DIRECCION URL**_
 
 **¿Que es una URL?**
 
-Es un identificador de recursos uniforme cuyos recursos referidos pueden cambiar, esto es, la dirección puede apuntar a recursos variables en el tiempo.
+Es el mecanismo usado por los navegadores para obtener cualquier recurso publicadon en la web. Una URL no es más que una direccion que es dada a un recurso único en la Web. En teoria, cada URL valida apunta a un único recurso.
 ![Creador URL](https://github.com/100007821/SMX2_M8UF1A1_HistoriaWeb-1992-HistoriaURL-AlexNaranjo/blob/main/url-domain.png)
 **¿Cuando se creo?**
 
